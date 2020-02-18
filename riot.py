@@ -1,5 +1,5 @@
 from riotwatcher import RiotWatcher, ApiError
-watcher = RiotWatcher('RGAPI-c33fbba3-169e-4673-bbf8-907b3c6cba5f')
+watcher = RiotWatcher('*****') # API key would be here
 
 i = 0
 while i == 0:
